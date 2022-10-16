@@ -1,0 +1,26 @@
+﻿[
+  {
+    fullName: james,
+    gender: male,
+    id: Guid_1,
+    userName: user1
+  },
+  {
+    fullName: mahdi radi,
+    gender: male,
+    id: Guid_2,
+    userName: user2
+  },
+  {
+    fullName: fati,
+    gender: female,
+    id: Guid_3,
+    userName: user3
+  },
+  {
+    fullName: vort,
+    gender: ,
+    id: Guid_4,
+    userName: user4
+  }
+]
